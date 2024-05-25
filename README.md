@@ -4,7 +4,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>ReactJS</span><br><br><br>
+        <span>NextJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
       </td>
       <td width="25%" align="center">
@@ -16,8 +16,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
     </tr>
     <tr valign="top">
