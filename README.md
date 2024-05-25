@@ -49,7 +49,7 @@
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
